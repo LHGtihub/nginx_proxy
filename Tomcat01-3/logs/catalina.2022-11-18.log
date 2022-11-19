@@ -1,0 +1,171 @@
+18-Nov-2022 00:19:14.774 信息 [main] org.apache.catalina.core.StandardServer.await 通过关闭端口接收到有效的关闭命令。正在停止服务器实例。
+18-Nov-2022 00:19:14.778 信息 [main] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-1113"]
+18-Nov-2022 00:19:15.788 信息 [main] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+18-Nov-2022 00:19:15.799 信息 [main] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-1113"]
+18-Nov-2022 00:19:15.811 信息 [main] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-1113"]
+18-Nov-2022 00:19:15.858 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/10.0.22
+18-Nov-2022 00:19:15.860 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Jun 2 2022 16:53:56 UTC
+18-Nov-2022 00:19:15.860 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      10.0.22.0
+18-Nov-2022 00:19:15.860 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Mac OS X
+18-Nov-2022 00:19:15.860 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           12.6
+18-Nov-2022 00:19:15.860 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              aarch64
+18-Nov-2022 00:19:15.860 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     /Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+18-Nov-2022 00:19:15.860 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_332-b09
+18-Nov-2022 00:19:15.860 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Azul Systems, Inc.
+18-Nov-2022 00:19:15.860 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 00:19:15.860 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 00:19:15.862 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/conf/logging.properties
+18-Nov-2022 00:19:15.862 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Nov-2022 00:19:15.862 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+18-Nov-2022 00:19:15.862 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Nov-2022 00:19:15.863 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+18-Nov-2022 00:19:15.863 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+18-Nov-2022 00:19:15.863 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 00:19:15.863 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 00:19:15.863 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/temp
+18-Nov-2022 00:19:15.866 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[/Users/lihao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+18-Nov-2022 00:19:16.311 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-1113"]
+18-Nov-2022 00:19:16.324 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[766]毫秒内初始化
+18-Nov-2022 00:19:16.342 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+18-Nov-2022 00:19:16.342 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/10.0.22]
+18-Nov-2022 00:19:16.347 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/webapps/A3-3]
+18-Nov-2022 00:19:16.626 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/webapps/A3-3]的部署已在[278]毫秒内完成
+18-Nov-2022 00:19:16.628 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-1113"]
+18-Nov-2022 00:19:16.643 信息 [main] org.apache.catalina.startup.Catalina.start [318]毫秒后服务器启动
+18-Nov-2022 01:09:47.411 信息 [Thread-3] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-1113"]
+18-Nov-2022 01:09:47.607 信息 [Thread-3] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+18-Nov-2022 01:09:47.867 信息 [Thread-3] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-1113"]
+18-Nov-2022 02:45:20.621 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/10.0.22
+18-Nov-2022 02:45:20.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Jun 2 2022 16:53:56 UTC
+18-Nov-2022 02:45:20.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      10.0.22.0
+18-Nov-2022 02:45:20.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Mac OS X
+18-Nov-2022 02:45:20.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           12.6
+18-Nov-2022 02:45:20.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              aarch64
+18-Nov-2022 02:45:20.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     /Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+18-Nov-2022 02:45:20.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_332-b09
+18-Nov-2022 02:45:20.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Azul Systems, Inc.
+18-Nov-2022 02:45:20.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:45:20.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:45:20.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/conf/logging.properties
+18-Nov-2022 02:45:20.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Nov-2022 02:45:20.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+18-Nov-2022 02:45:20.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Nov-2022 02:45:20.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+18-Nov-2022 02:45:20.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+18-Nov-2022 02:45:20.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:45:20.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:45:20.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/temp
+18-Nov-2022 02:45:20.631 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[/Users/lihao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+18-Nov-2022 02:45:21.118 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-1113"]
+18-Nov-2022 02:45:21.129 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[830]毫秒内初始化
+18-Nov-2022 02:45:21.165 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+18-Nov-2022 02:45:21.166 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/10.0.22]
+18-Nov-2022 02:45:21.171 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/webapps/A3-3]
+18-Nov-2022 02:45:21.462 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/webapps/A3-3]的部署已在[289]毫秒内完成
+18-Nov-2022 02:45:21.524 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-1113"]
+18-Nov-2022 02:45:21.633 信息 [main] org.apache.catalina.startup.Catalina.start [504]毫秒后服务器启动
+18-Nov-2022 02:46:33.216 信息 [main] org.apache.catalina.core.StandardServer.await 通过关闭端口接收到有效的关闭命令。正在停止服务器实例。
+18-Nov-2022 02:46:33.217 信息 [main] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-1113"]
+18-Nov-2022 02:46:33.221 信息 [main] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+18-Nov-2022 02:46:33.225 信息 [main] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-1113"]
+18-Nov-2022 02:46:33.227 信息 [main] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-1113"]
+18-Nov-2022 02:46:34.309 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/10.0.22
+18-Nov-2022 02:46:34.314 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Jun 2 2022 16:53:56 UTC
+18-Nov-2022 02:46:34.314 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      10.0.22.0
+18-Nov-2022 02:46:34.314 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Mac OS X
+18-Nov-2022 02:46:34.314 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           12.6
+18-Nov-2022 02:46:34.314 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              aarch64
+18-Nov-2022 02:46:34.314 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     /Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+18-Nov-2022 02:46:34.314 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_332-b09
+18-Nov-2022 02:46:34.314 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Azul Systems, Inc.
+18-Nov-2022 02:46:34.314 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:46:34.314 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:46:34.319 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/conf/logging.properties
+18-Nov-2022 02:46:34.319 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Nov-2022 02:46:34.319 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+18-Nov-2022 02:46:34.319 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Nov-2022 02:46:34.319 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+18-Nov-2022 02:46:34.319 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+18-Nov-2022 02:46:34.319 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:46:34.319 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:46:34.319 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/temp
+18-Nov-2022 02:46:34.324 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[/Users/lihao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+18-Nov-2022 02:46:34.911 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-1113"]
+18-Nov-2022 02:46:34.949 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[917]毫秒内初始化
+18-Nov-2022 02:46:34.962 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+18-Nov-2022 02:46:34.962 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/10.0.22]
+18-Nov-2022 02:46:34.970 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/webapps/A3-3]
+18-Nov-2022 02:46:35.330 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/webapps/A3-3]的部署已在[358]毫秒内完成
+18-Nov-2022 02:46:35.334 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-1113"]
+18-Nov-2022 02:46:35.345 信息 [main] org.apache.catalina.startup.Catalina.start [395]毫秒后服务器启动
+18-Nov-2022 02:47:25.868 信息 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy 正在取消部署上下文[/A3-3]
+18-Nov-2022 02:47:25.877 信息 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/webapps/ROOT]
+18-Nov-2022 02:47:25.888 信息 [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/webapps/ROOT]的部署已在[11]毫秒内完成
+18-Nov-2022 02:47:34.348 信息 [main] org.apache.catalina.core.StandardServer.await 通过关闭端口接收到有效的关闭命令。正在停止服务器实例。
+18-Nov-2022 02:47:34.348 信息 [main] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-1113"]
+18-Nov-2022 02:47:35.352 信息 [main] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+18-Nov-2022 02:47:35.328 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/10.0.22
+18-Nov-2022 02:47:35.351 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Jun 2 2022 16:53:56 UTC
+18-Nov-2022 02:47:35.351 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      10.0.22.0
+18-Nov-2022 02:47:35.351 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Mac OS X
+18-Nov-2022 02:47:35.351 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           12.6
+18-Nov-2022 02:47:35.351 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              aarch64
+18-Nov-2022 02:47:35.351 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     /Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+18-Nov-2022 02:47:35.352 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_332-b09
+18-Nov-2022 02:47:35.352 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Azul Systems, Inc.
+18-Nov-2022 02:47:35.352 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:47:35.352 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:47:35.356 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/conf/logging.properties
+18-Nov-2022 02:47:35.356 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Nov-2022 02:47:35.356 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+18-Nov-2022 02:47:35.356 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Nov-2022 02:47:35.356 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+18-Nov-2022 02:47:35.356 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+18-Nov-2022 02:47:35.356 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:47:35.356 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:47:35.356 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/temp
+18-Nov-2022 02:47:35.360 信息 [main] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-1113"]
+18-Nov-2022 02:47:35.368 信息 [main] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-1113"]
+18-Nov-2022 02:47:35.370 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[/Users/lihao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+18-Nov-2022 02:47:35.922 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-1113"]
+18-Nov-2022 02:47:35.937 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[824]毫秒内初始化
+18-Nov-2022 02:47:36.053 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+18-Nov-2022 02:47:36.060 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/10.0.22]
+18-Nov-2022 02:47:36.090 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/webapps/ROOT]
+18-Nov-2022 02:47:36.487 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/webapps/ROOT]的部署已在[397]毫秒内完成
+18-Nov-2022 02:47:36.488 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-1113"]
+18-Nov-2022 02:47:36.494 信息 [main] org.apache.catalina.startup.Catalina.start [557]毫秒后服务器启动
+18-Nov-2022 02:48:31.873 信息 [main] org.apache.catalina.core.StandardServer.await 通过关闭端口接收到有效的关闭命令。正在停止服务器实例。
+18-Nov-2022 02:48:31.873 信息 [main] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-1113"]
+18-Nov-2022 02:48:32.876 信息 [main] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+18-Nov-2022 02:48:32.885 信息 [main] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-1113"]
+18-Nov-2022 02:48:32.893 信息 [main] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-1113"]
+18-Nov-2022 02:48:32.871 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/10.0.22
+18-Nov-2022 02:48:32.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Jun 2 2022 16:53:56 UTC
+18-Nov-2022 02:48:32.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      10.0.22.0
+18-Nov-2022 02:48:32.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Mac OS X
+18-Nov-2022 02:48:32.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           12.6
+18-Nov-2022 02:48:32.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              aarch64
+18-Nov-2022 02:48:32.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     /Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+18-Nov-2022 02:48:32.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_332-b09
+18-Nov-2022 02:48:32.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Azul Systems, Inc.
+18-Nov-2022 02:48:32.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:48:32.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:48:32.921 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/conf/logging.properties
+18-Nov-2022 02:48:32.921 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Nov-2022 02:48:32.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+18-Nov-2022 02:48:32.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Nov-2022 02:48:32.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+18-Nov-2022 02:48:32.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+18-Nov-2022 02:48:32.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:48:32.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3
+18-Nov-2022 02:48:32.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/temp
+18-Nov-2022 02:48:32.932 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[/Users/lihao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+18-Nov-2022 02:48:33.496 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-1113"]
+18-Nov-2022 02:48:33.531 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[912]毫秒内初始化
+18-Nov-2022 02:48:33.589 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+18-Nov-2022 02:48:33.589 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/10.0.22]
+18-Nov-2022 02:48:33.623 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/webapps/ROOT]
+18-Nov-2022 02:48:33.936 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/lihao/Desktop/nginx_tomcat/Tomcat01-3/webapps/ROOT]的部署已在[312]毫秒内完成
+18-Nov-2022 02:48:33.937 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-1113"]
+18-Nov-2022 02:48:33.945 信息 [main] org.apache.catalina.startup.Catalina.start [414]毫秒后服务器启动
